@@ -1,3 +1,3 @@
 # th_app5
 
-A new Flutter project.
+Nguyễn Trung Hiếu
